@@ -12,6 +12,6 @@ from typing import *
 # @lc code=start
 class Solution:
     def plusOne(self, digits: List[int]) -> List[int]:
-        
+        pass
 # @lc code=end
 
