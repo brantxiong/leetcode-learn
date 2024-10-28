@@ -34,6 +34,7 @@ class Solution:
         if carry == 1:
             result.insert(0, carry)
 
+        print(result)
         return result
 # @lc code=end
 
